@@ -1,7 +1,8 @@
 ---
 title: Installation
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 Lorem markdownum fama iusserat **sit trunca**, isto et quid dolens Aeetias.
