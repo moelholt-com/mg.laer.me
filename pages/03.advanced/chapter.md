@@ -10,3 +10,5 @@ child_type: docs
 # Advanced
 
 Get into the **nitty gritty** with these advanced topics
+
+Her er lidt tilføjet fra obsidian
