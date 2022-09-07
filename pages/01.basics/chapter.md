@@ -10,3 +10,6 @@ child_type: docs
 # Basics
 
 Discover the **basic** principles
+
+
+![math_cartoons45](math_cartoons45.gif)
